@@ -1,6 +1,6 @@
 ### Oláá! Eu sou a Gabriela Ramos👋
 
-- 🔭 Estou conhecendo o universo back-end jr.;
+- 🔭 Me interesso pelo universo back-end;
 - 🌱 Estudando ASP.NET MVC, C# e HTML;
 - 😄 Pronomes: ela/dela.
 
